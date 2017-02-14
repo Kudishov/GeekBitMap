@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeekBitMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="type">Порода</string>
+    <string name="name">Имя</string>
+    <string name="description">Описание</string>
+    <string name="CatType">CatType</string>
+</resources>
